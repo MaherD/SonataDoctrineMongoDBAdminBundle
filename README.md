@@ -1,7 +1,6 @@
 Doctrine MongoDb Admin
 ======================
 
-*NOT STABLE*
 
 This bundle integrates the SonataAdminBundle with the Doctrine MongoDB project.
 
